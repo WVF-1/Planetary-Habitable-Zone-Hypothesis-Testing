@@ -17,14 +17,6 @@ The project emphasizes **statistical inference**, hypothesis testing, and robust
 
 ## Dataset
 
-This project uses the **Star Dataset** from Kaggle, which contains physical properties of stars including:
-
-- Temperature (Kelvin)
-- Luminosity (relative to the Sun)
-- Radius (relative to the Sun)
-- Absolute magnitude
-- Star type and color
-
 **Dataset link (CC0 / public):** 
 You may view the dataset here: [Kaggle Dataset](https://www.kaggle.com/datasets/jameskychoi/confirmed-exoplanet-latest-update-dataset).
 
