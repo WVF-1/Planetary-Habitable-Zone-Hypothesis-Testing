@@ -116,11 +116,10 @@ Together, these methods test whether observed results reflect robust physical si
 ## Project Structure
 
 ```text
-01_scientific_questions_and_null_hypotheses.ipynb
-02_exoplanet_data_and_habitable_zone_definition.ipynb
-03_composition_classification_and_assumptions.ipynb
-04_two_sample_tests_by_habitability.ipynb
-05_chi_squared_composition_vs_hz.ipynb
-06_effect_sizes_and_statistical_power.ipynb
-07_svm_as_hypothesis_generator.ipynb
-08_robustness_uncertainty_and_causal_limits.ipynb
+Chi-Squared Composition.ipynb
+EDA and Habitable Zone.ipynb
+Effective Size.ipynb
+Formal Hypothesis Generator.ipynb
+SVM Hypothesis Testing.ipynb
+Subset Creation.ipynb
+Unvertainty Propogation.ipynb
